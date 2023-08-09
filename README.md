@@ -3,7 +3,8 @@ This is my final project created for Microsoft Future Ready Talent Virtual Inter
 # [Poly CLinic Healthcare Website with Healthbot]
 
 Project Link :https://lively-stone-0b9807010.3.azurestaticapps.net
-Demo Video :
+
+Demo Video :https://youtu.be/1fR6MJBXN88
 
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
@@ -27,4 +28,6 @@ Online health websites have the potential to empower individuals by enabling the
  The Poly Clinic website is thoughtfully designed to cater to medical needs, including hospital supplies, surgical services, clinical laboratory, healthcare bot, oncology, and therapy. It serves as a comprehensive platform for managing patient records and doctor recommendations, streamlining medical requirements.
 This website functions as an online healthcare hub, offering a range of services through the internet. These services encompass consultations with medical experts, an online healthcare bot, and access to medical information and resources. These platforms are especially valuable for individuals unable to visit a physical healthcare facility due to geographical or physical limitations. They also suit those who prefer the convenience of receiving healthcare services from their homes.
 Furthermore, online healthcare websites can ease the burden on healthcare providers, minimizing patient waiting times. However, it's crucial to remember that these platforms should complement, not replace, in-person medical care, particularly in emergency situations.
+
+
 
